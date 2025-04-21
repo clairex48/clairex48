@@ -15,6 +15,9 @@ Some skills that I have learned from the courses I took are Incident response, S
 | _ | _ |
 
 | Certificates |
+
 Google Cloud Security: https://coursera.org/share/bc9143e7a2a1d3c9782c324f679c606a
+
 Google Cybersecurity: https://coursera.org/share/b2dc7d3da7e06d11acaaba8ea633c45f
+
 Credly Profile: https://www.credly.com/users/claire-tilse
