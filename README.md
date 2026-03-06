@@ -1,12 +1,6 @@
 Hello, I'm Claire
 
-##
-
-<a href="www.linkedin.com/in/claire-h-687032381"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
-##
-
-I have recently finished the Google Cybersecurity & Google Cloud Certificate programs on Coursera, and last year I completed the Junoir Cybersecurity Analyst Course on Cisco Networking Academy.
+In the past year I have finished the Google Cybersecurity, Google Cloud Security, Microsoft IT, and Data Analytics Certificate programs on Coursera, and in 2024 I completed the Junoir Cybersecurity Analyst Course on Cisco Networking Academy.
 
 Some skills that I have learned from the courses I took are Incident response, Security frameworks and controls, SIEM tools, Cyber threat management, Endpoint security, & Network defense.
 
